@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @notManuka
 - 👀 I’m interested in webdev
 - 🌱 I’m currently re-learning my JamStack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anime binge-watching
 - 📫 How to reach me: send pigeons.
 
 <!---
